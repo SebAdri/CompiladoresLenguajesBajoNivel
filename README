@@ -1,0 +1,15 @@
+README
+
+Todos los archivos deben estar en la misma carpeta
+
+Pasos compilacion
+linux
+gcc anlex.c
+./a.out fuente.txt
+
+win - (previa instalacion de MinGW)
+gcc anlex.c
+a.exe fuente.txt
+
+Integrante:
+*. Sebastián A. Caballero Pereira - 4057633
